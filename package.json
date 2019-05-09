@@ -1,0 +1,17 @@
+{
+  "name": "slackbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "coffeescript": "^2.4.1",
+    "generator-hubot": "^0.4.0",
+    "hubot": "^3.3.2",
+    "yo": "^2.0.6"
+  }
+}
